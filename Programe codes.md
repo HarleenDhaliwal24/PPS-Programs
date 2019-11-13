@@ -1230,19 +1230,19 @@ b = 20 after function call_by_reference
 Output:
 Enter details :
 
-Name ? :Bhupinder
+Name ? :Harleen
 
-ID ? :1914125
+ID ? :1914138
 
-Salary ?:15,00000000
+Salary ?:15,00000
 
 Entered detail is:
 
-Name: Bhupinder
+Name: Harleen
 
-Id: 1914125
+Id: 1914138
 
-Salary: 15,000000
+Salary: 15,00000
 
 -----------------------------
 25.Product Of 2 Fractions:
