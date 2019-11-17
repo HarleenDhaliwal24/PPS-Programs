@@ -2,7 +2,7 @@
 ## NAME- *HARLEEN KAUR*
 ## ROLL NO- *1914138*
 ## BRANCH- *CIVIL ENGINEERING*
-![LOGO](gndec-logo.jpg)
+
 
 # List of programs
 ### 1.Addition of two integers
